@@ -24,11 +24,11 @@
 ### Here are some statistics about my work 📊
 <p align="center">
   <a href="https://github.com/angel-penchev/">
-    <img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=angel-penchev&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&line_height=28.5" />
+    <img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=angel-penchev&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&line_height=28.5" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/angel-penchev/">
-    <img margin=66px src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-penchev&hide=ShaderLab&layout=compact&langs_count=10&exclude_repo=ProjectBlank&theme=dracula" />
+    <img margin=66px src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-penchev&hide=ShaderLab&layout=compact&langs_count=10&exclude_repo=ProjectBlank&card_width=275&theme=dracula" />
   </a>
 </p>
 
