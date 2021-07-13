@@ -1,4 +1,5 @@
 <p align="center">
+  <img width=96px src="./docs/assets/logo-256x256.png" />
   <h2 align="center">Angel Penchev</h2>
   <p align="center">Software developer with 5 years of experience in the field of programming.</p>
 </p>
@@ -9,6 +10,10 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/angel-penchev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:angel@penchev.dev">
+    <img src="./docs/assets/email-badge.png" />
   </a>
 </p>
 
