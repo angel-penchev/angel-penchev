@@ -1,7 +1,7 @@
 <p align="center">
   <img width=96px src="./docs/assets/logo-256x256.png" />
   <h2 align="center">Angel Penchev</h2>
-  <p align="center">Software developer with 5 years of experience in the field of programming.</p>
+  <p align="center">Enthusiast software developer and computer science university student with 5 years of experience.</p>
 </p>
 <p align="center">
   <a href="https://github.com/angel-penchev/">
@@ -20,9 +20,9 @@
 ### Hey there 👋
 - 🏞 I'm a software developer based in Sofia, Bulgaria.
 - 🌱 I'm a graduate at [@elsys](https://github.com/elsys/) and a computer science student at [@fmi](https://github.com/fmi/).
-- 👀 I'm looking forward to working on interesting machine learning projects.
+- 👀 I'm looking forward to working on interesting projects.
 - ❤ I'm passionate about programming, hackathons, etc.
-- 💼 I'm currently open to work.
+- 💼 I'm currently work for Haemimont AD.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/angel-penchev/) or email me at angel@penchev.dev.
 
 
@@ -36,18 +36,3 @@
     <img margin=66px src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-penchev&hide=ShaderLab&layout=compact&langs_count=10&exclude_repo=ProjectBlank&card_width=275&theme=dracula" />
   </a>
 </p>
-
-<!--
-**angel-penchev/angel-penchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
