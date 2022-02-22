@@ -22,7 +22,7 @@
 - 🌱 I'm a graduate at [@elsys](https://github.com/elsys/) and a computer science student at [@fmi](https://github.com/fmi/).
 - 👀 I'm looking forward to working on interesting projects.
 - ❤ I'm passionate about programming, hackathons, etc.
-- 💼 I'm currently work for Haemimont AD.
+- 💼 I'm currently working for Haemimont AD.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/angel-penchev/) or email me at angel@penchev.dev.
 
 
